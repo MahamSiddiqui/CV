@@ -1,3 +1,2 @@
-Curriculaum Vitae
-HTML Task 
+HTML Task(Curriculum Vitae)		
 https://mahamsiddiqui.github.io/CV/
