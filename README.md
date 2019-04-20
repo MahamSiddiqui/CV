@@ -1,2 +1,2 @@
-#Curriculaum Vitea 
+Html Task (Curriculaum Vitea) 
 https://mahamsiddiqui.github.io/CV/.
