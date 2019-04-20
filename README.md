@@ -1,3 +1,3 @@
-#Curriiculum Vitea
-Html Task (Curriculaum Vitea) 
-https://mahamsiddiqui.github.io/CV/.
+Curriculaum Vitae
+HTML Task 
+https://mahamsiddiqui.github.io/CV/
